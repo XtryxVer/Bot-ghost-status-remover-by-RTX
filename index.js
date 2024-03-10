@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["👑Bot Oficial Kamurya👑","📢Bot Oficial Club Divulgações"];
 
 
 let currentIndex = 0;
